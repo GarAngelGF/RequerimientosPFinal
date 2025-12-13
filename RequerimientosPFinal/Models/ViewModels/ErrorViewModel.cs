@@ -1,4 +1,4 @@
-namespace RequerimientosPFinal.Models
+namespace RequerimientosPFinal.Models.ViewModels
 {
     public class ErrorViewModel
     {

@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using RequerimientosPFinal.Models;
+using RequerimientosPFinal.Models.ViewModels;
 
 namespace RequerimientosPFinal.Controllers
 {
